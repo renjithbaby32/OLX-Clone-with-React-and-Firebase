@@ -9,7 +9,7 @@ function ViewPost(props) {
             <Header />
             <View/>
         </div>
-    )
+    ) 
 }
 
 export default ViewPost

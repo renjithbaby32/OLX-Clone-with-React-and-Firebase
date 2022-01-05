@@ -7,6 +7,8 @@ import Posts from '../Components/Posts/Posts';
 import Footer from '../Components/Footer/Footer';
 
 function Home(props) {
+
+
   return (
     <div className="homeParentDiv">
       <Header />
